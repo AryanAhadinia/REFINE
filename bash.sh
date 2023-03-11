@@ -1,0 +1,1 @@
+python main.py -d $1 --regularization 0.01 0.001 0.0001 --learning_rate 0.01 0.005 0.001 0.0005 0.0001 --epochs 200 --shape_ratio 0.9 0.85 0.8 0.75 0.7 --r_ratio 0.6 0.5 0.4 0.3 --batch_size 32 --no_cuda
